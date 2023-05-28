@@ -24,7 +24,7 @@ Each challenge within this repository is carefully curated to reflect real-world
 To get started, clone or download this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/python-interview-coding-challenges.git
+git clone https://github.com/sobit-nep/python-interview-coding-challenges.git
 ```
 
 Once you have the repository on your machine, navigate to the desired challenge directory. Each challenge is placed within its own directory and contains a problem statement in a markdown (`*.md`) file and a corresponding Python file (`*.py`) for you to implement your solution. Read the problem statement carefully, and start coding your solution in the Python file. Feel free to use any additional files or resources as required.
