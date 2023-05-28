@@ -1,6 +1,5 @@
 **Python Interview Coding Challenges Repository**
 
-[GitHub Repository Link](https://github.com/sobit-nep/python-interview-coding-challenges)
 
 ![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 
@@ -42,6 +41,6 @@ Contributions to this repository are welcome! If you have additional coding chal
 <a name="license"></a>
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code within this repository for personal or commercial purposes. However, please note that while this repository provides valuable resources for interview preparation, it does not guarantee success in interviews or endorse any specific interview process.
+This repository is licensed under the [GNU License](LICENSE). You are free to use, modify, and distribute the code within this repository for personal or commercial purposes. However, please note that while this repository provides valuable resources for interview preparation, it does not guarantee success in interviews or endorse any specific interview process.
 
 Happy coding and best of luck with your Python interview preparations!
