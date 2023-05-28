@@ -34,7 +34,7 @@ To contribute to this project, follow these steps:
 2. **Clone the Repository**: Clone the forked repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/repository.git
+   git clone https://github.com/sobit-nep/python-interview-coding-challenges.git
    ```
 
 3. **Create a Branch**: Create a new branch to work on your feature or bug fix:
