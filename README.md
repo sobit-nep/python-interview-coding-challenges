@@ -1,7 +1,6 @@
 **Python Interview Coding Challenges Repository**
 
 
-![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 
 Welcome to the Python Interview Coding Challenges Repository! This repository is dedicated to providing a collection of Python coding challenges and interview questions that can help you sharpen your programming skills and prepare for Python coding interviews.
 
