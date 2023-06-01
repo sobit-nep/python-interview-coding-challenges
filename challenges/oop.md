@@ -10,7 +10,7 @@ Write a Python class `Rectangle` that represents a rectangle. The class should h
 
 ```python
 class Rectangle:
-    def __init__(self, length, width):
+    def __init__(self, length, width):  #self is the instance of class Rectangle
         self.length = length
         self.width = width
         
