@@ -1,5 +1,3 @@
-Certainly! Here's an example of a Markdown file for Python coding challenges related to recursion:
-
 **recursion.md**
 
 ## Recursion Coding Challenges
