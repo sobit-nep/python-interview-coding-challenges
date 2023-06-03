@@ -2,7 +2,7 @@
 
 
 
-Welcome to the Python Interview Coding Challenges Repository! This repository is dedicated to providing a collection of Python coding challenges and interview questions that can help you sharpen your programming skills and prepare for Python coding interviews.
+Welcome to the Python Interview Coding Challenges Repository! This repository is dedicated to provide a collection of Python coding challenges and interview questions that can help you sharpen your programming skills and prepare for Python coding interviews.
 
 **Table of Contents**
 1. [Description](#description)
